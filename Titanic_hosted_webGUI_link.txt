@@ -1,6 +1,6 @@
-Name: Ekpokpobe Oghenetejiri Great
-Matric Number: 22CH032007
+Name: Emeka Anyaeji Dumebi
+Matric Number: 22CG031854
 Machine Learning Algorithm Used: Random Forest Classifier
 Model persistence method used: Joblib
-Live URL of the hosted application: https://titanic-project-ekpokpobe-oghenetejiri.onrender.com
+Live URL of the hosted application: https://titanic-project-emeka-anyaeji-dumebi.onrender.com
 GitHub repository link: https://github.com/dumebiea/Titanic_Project_Emeka_Anyaeji_Dumebi_22CG031854
