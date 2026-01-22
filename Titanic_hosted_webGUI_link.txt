@@ -2,5 +2,5 @@ Name: Ekpokpobe Oghenetejiri Great
 Matric Number: 22CH032007
 Machine Learning Algorithm Used: Random Forest Classifier
 Model persistence method used: Joblib
-Live URL of the hosted application: [INSERT_RENDER_URL_HERE]
+Live URL of the hosted application: https://titanic-project-ekpokpobe-oghenetejiri.onrender.com
 GitHub repository link: https://github.com/oekpokpobe2202349-dotcom/Titanic_Project_Ekpokpobe-Oghenetejiri-Great_22CH032007
